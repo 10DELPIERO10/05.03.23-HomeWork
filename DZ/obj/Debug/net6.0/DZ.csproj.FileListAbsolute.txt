@@ -1,0 +1,15 @@
+C:\Users\nurzh\OneDrive\Рабочий стол\HomeWork\DZ\bin\Debug\net6.0\DZ.exe
+C:\Users\nurzh\OneDrive\Рабочий стол\HomeWork\DZ\bin\Debug\net6.0\DZ.deps.json
+C:\Users\nurzh\OneDrive\Рабочий стол\HomeWork\DZ\bin\Debug\net6.0\DZ.runtimeconfig.json
+C:\Users\nurzh\OneDrive\Рабочий стол\HomeWork\DZ\bin\Debug\net6.0\DZ.dll
+C:\Users\nurzh\OneDrive\Рабочий стол\HomeWork\DZ\bin\Debug\net6.0\DZ.pdb
+C:\Users\nurzh\OneDrive\Рабочий стол\HomeWork\DZ\obj\Debug\net6.0\DZ.csproj.AssemblyReference.cache
+C:\Users\nurzh\OneDrive\Рабочий стол\HomeWork\DZ\obj\Debug\net6.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurzh\OneDrive\Рабочий стол\HomeWork\DZ\obj\Debug\net6.0\DZ.AssemblyInfoInputs.cache
+C:\Users\nurzh\OneDrive\Рабочий стол\HomeWork\DZ\obj\Debug\net6.0\DZ.AssemblyInfo.cs
+C:\Users\nurzh\OneDrive\Рабочий стол\HomeWork\DZ\obj\Debug\net6.0\DZ.csproj.CoreCompileInputs.cache
+C:\Users\nurzh\OneDrive\Рабочий стол\HomeWork\DZ\obj\Debug\net6.0\DZ.dll
+C:\Users\nurzh\OneDrive\Рабочий стол\HomeWork\DZ\obj\Debug\net6.0\refint\DZ.dll
+C:\Users\nurzh\OneDrive\Рабочий стол\HomeWork\DZ\obj\Debug\net6.0\DZ.pdb
+C:\Users\nurzh\OneDrive\Рабочий стол\HomeWork\DZ\obj\Debug\net6.0\DZ.genruntimeconfig.cache
+C:\Users\nurzh\OneDrive\Рабочий стол\HomeWork\DZ\obj\Debug\net6.0\ref\DZ.dll
